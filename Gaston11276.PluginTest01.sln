@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D38E38E-75C4-49A8-A3AE-F823EAD5EA6E}"
+	ProjectSection(SolutionItems) = preProject
+		nfive.yml = nfive.yml
+	EndProjectSection
+EndProject
+Project("{3D6C3591-DCD0-4D99-80C9-C45600728C7C}") = "PluginTest01.Client", "PluginTest01.Client\PluginTest01.Client.csproj", "{9B0187CE-C4B9-482F-91D3-7AA9FA828F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0187CE-C4B9-482F-91D3-7AA9FA828F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0187CE-C4B9-482F-91D3-7AA9FA828F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0187CE-C4B9-482F-91D3-7AA9FA828F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0187CE-C4B9-482F-91D3-7AA9FA828F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

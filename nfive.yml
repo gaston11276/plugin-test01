@@ -1,0 +1,10 @@
+name: gaston11276/plugin-test01
+version: 1.0.0
+description: NFive Plugin
+author: gaston11276
+license: LGPL-3.0-or-later
+client:
+  main:
+    - Gaston11276.PluginTest01.Client
+  files:
+    - Overlays/PluginTest01Overlay.html
